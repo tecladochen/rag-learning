@@ -13,7 +13,7 @@ This repository contains my learning notes, practical implementations, and theor
   - Resource collections
 
 ## Repository Structure
-Here's a suggested directory structure for the repository:
+Here's a directory for the repository:
 
 ```
 rag-learning/
